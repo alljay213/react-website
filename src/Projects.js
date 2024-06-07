@@ -14,13 +14,25 @@ const projects = [
     link: "#",
   },
   // Add more projects as needed
+  {
+    title: "Project Three",
+    description: "A brief description of Project Three.",
+    imageUrl: "path_to_project_three_image.jpg",
+    link: "#",
+  },
+  {
+    title: "Project Four",
+    description: "A brief description of Project Four.",
+    imageUrl: "path_to_project_four_image.jpg",
+    link: "#",
+  },
 ];
 
 const Projects = () => {
   return (
     <section
       id="projects"
-      className="bg-gradient-to-b from-cyan-100 to-sky-300 text-gray-800 py-20"
+      className="bg-gradient-to-b from-cyan-100 to-sky-300 text-blue-950 py-20"
     >
       <div className="container mx-auto px-4">
         <h2 className="text-4xl font-bold mb-8 text-center">My Projects</h2>

@@ -6,13 +6,22 @@ const Header = () => {
       <nav className="container mx-auto flex justify-between items-center">
         <div className="text-2xl font-bold">all jay</div>
         <div className="flex space-x-4">
-          <a href="#home" className="hover:text-blue-300">
+          <a
+            href="#home"
+            className="ease-in-out duration-300 px-2 rounded hover:bg-white hover:text-blue-700"
+          >
             Home
           </a>
-          <a href="#about" className="hover:text-blue-300">
+          <a
+            href="#about"
+            className="ease-in-out duration-300 px-2 rounded hover:bg-white hover:text-blue-700"
+          >
             About
           </a>
-          <a href="#contact" className="hover:text-blue-300">
+          <a
+            href="#contact"
+            className="ease-in-out duration-300 px-2 rounded hover:bg-white hover:text-blue-700"
+          >
             Contact
           </a>
         </div>

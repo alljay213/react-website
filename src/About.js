@@ -6,7 +6,7 @@ const About = () => {
       id="about"
       className="bg-gradient-to-b from-sky-300 to-cyan-100 text-gray-800 py-20"
     >
-      <div className="container mx-auto px-4">
+      <div className="text-blue-950 container mx-auto px-4">
         <h2 className="text-4xl font-bold mb-8 text-center">About Me</h2>
         <div className="flex flex-col md:flex-row items-center md:items-start">
           <div className="md:w-1/3 mb-8 md:mb-0">

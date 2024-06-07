@@ -13,7 +13,7 @@ const Hero = () => {
         <p className="text-xl mb-8">I'm All Jay, a Front End Web Developer</p>
         <a
           href="#projects"
-          className="bg-blue-600 hover:bg-blue-700 text-white py-2 px-4 rounded"
+          className="ease-in-out duration-300 bg-blue-700 hover:bg-blue-950 text-white py-2 px-4 rounded"
         >
           View My Work
         </a>
