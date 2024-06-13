@@ -18,15 +18,16 @@ const About = () => {
           </div>
           <div className="md:w-2/3 md:pl-8">
             <p className="text-lg mb-4">
-              Hello! I'm [Your Name], a [Your Profession] with a passion for
-              [Your Passion]. I have [X] years of experience in [Your Field] and
-              have worked on various projects related to [Your Specialization].
-              My skills include [Skill 1], [Skill 2], [Skill 3], and more.
+              Hello! I'm All Jay Gaco, a Front End Web Developer with a passion
+              for creating beautiful websites for businesses. I have 1 years of
+              experience in Web Development and have worked on various projects
+              related to Front End Web Design. My skills include HTML, CSS,
+              Javascript, React.js and more.
             </p>
             <p className="text-lg mb-4">
-              In my free time, I enjoy [Your Hobby/Interest], and I am always
-              eager to learn new things and take on new challenges. I am
-              currently looking for opportunities in [Your Desired Field/Role].
+              In my free time, I enjoy working out, playing League of Legends and I am always eager to
+              learn new things and take on new challenges. I am currently
+              looking for opportunities in Web Development as a Front End Developer.
             </p>
             <p className="text-lg">
               Feel free to explore my portfolio and reach out if you'd like to
